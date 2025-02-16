@@ -11,6 +11,9 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <releases>
-    <release version="0.0.2" date="2025-02-03" />
+    <release version="0.1.0" date="2025-02-16">
+      <description></description>
+    </release>
+    <release version="0.0.2" date="2025-02-03"/>
   </releases>
 </component>
