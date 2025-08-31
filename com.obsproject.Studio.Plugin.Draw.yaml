@@ -17,8 +17,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exeldro/obs-draw.git
-        tag: 0.2.4
-        commit: 84533b38f4ba9fe71f9a6a97e688cf0d0d9600f5
+        tag: 0.3.0
+        commit: 85a5680103717e0d9fb638002d8b64b68a87f18d
         x-checker-data:
           type: git
           is-main-source: true
